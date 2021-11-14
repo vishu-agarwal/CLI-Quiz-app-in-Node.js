@@ -1,0 +1,102 @@
+[
+    {
+        "id":"1",
+        "que":"1) Who wrote original Ramayan ?",
+        "A":"Sage Valmiki",
+        "B":"Sage Vasishtha",
+        "C":"Sage Vyasa",
+        "D":"None of the Above",
+        "correct":"A",
+        "explain": "The Ramayana is an ancient Indian epic, composed some time in the 5th century BCE, about the exile and then return of Rama, prince of Ayodhya. It was composed in Scorrectkrit by the sage Valmiki, who taught it to Rama's sons, the twins Lava and Kush"
+    },
+    {
+        "id":"2",
+        "que":"2) What was the name of Lakshman's wife ?",
+        "A":"Urvashi",
+        "B":"Umeshwari",
+        "C":"Mandvi",
+        "D":"Urmila",
+        "correct":"D",
+        "explain": "Urmila (Scorrectkrit:: ऊर्मिला) is a character in the Hindu epic Ramayana. She was daughter of King Janaka of Mithila and Queen Sunaina and younger sister of Sita. She was wife of Lakshmana, younger brother of Rama. They had two sons - Angada and Chandraketu."
+    },
+    {
+        "id":"3",
+        "que":"3) Luv and Kush were brought up in the ashram of which sage ?",
+        "A":"Sandipani",
+        "B":"Sukracharya",
+        "C":"Valmiki",
+        "D":"Vishwamitra",
+        "correct":"C",
+        "explain": "Around this, Baranvapara Wild Life Santuary is also located. Turturiya is situated on the Balbhadri Nalla near the village called Bahriya. It is said that Maharshi Valmiki's ashram was at this place in Tretayuga and that was the birthplace of Lav-kush."
+    },
+    {
+        "id":"4",
+       "que": "4) Whose wife was Mandodari ?",
+        "A":"Kumbhakarna",
+        "B":"Vibhishan",
+        "C":"Meghnath",
+        "D":"Lankapati Ravana",
+        "correct":"D",
+        "explain": "Mandodari (Scorrectkrit: मंदोदरी, Mandodarī, lit. 'soft-bellied') was the queen consort of Ravana, the king of Lanka, according to the Hindu epic Ramayana. The Ramayana describes Mandodari as beautiful, pious, and righteous."
+    },
+    {
+        "id":"5",
+        "que":"5) What was the name of Lakshman's wife ?",
+        "A":"Urvashi",
+        "B":"Umeshwari",
+        "C":"Mandvi",
+        "D":"Urmila",
+        "correct":"D",
+        "explain": "Urmila (Scorrectkrit:: ऊर्मिला) is a character in the Hindu epic Ramayana. She was daughter of King Janaka of Mithila and Queen Sunaina and younger sister of Sita. She was wife of Lakshmana, younger brother of Rama. They had two sons - Angada and Chandraketu."
+    },
+    {
+        "id":"6",
+       "que":"6) How many verses are there in Valmiki Ramayana ?",
+        "A":"24,000",
+        "B":"21,000",
+        "C":"11,000",
+        "D":"18,000",
+        "correct":"A",
+        "explain": "Valmiki's Ramayana is an epic poem of some 24,000 verses, divided into seven kāṇḍas (Bālakāṇḍa, Ayodhyakāṇḍa, Araṇyakāṇḍa, Kiṣkindakāṇḍa, Sundarākāṇḍa, Yuddhakāṇḍa, Uttarakāṇḍa), and about 500 sargas (chapters)."
+    },
+    {
+        "id":"7",
+        "que":"7) Who reminded Hanuman ji of his lost powers in Ramayana ?",
+        "A":"Vibhishana",
+        "B":"Laxman",
+        "C":"Jamwant",
+        "D":"Shri Ram",
+        "correct":"C",
+        "explain": "Having been reminded of his powers by Jamwant, the king of the bears, Hanuman crossed the strait between India and Lanka in one leap, despite the efforts of watery demonesses to stop him by swallowing him or his shadow."
+    },
+    {
+        "id":"8",
+        "que":"8) When Ravana was taking away Sita, which bird tried to stop him ?",
+        "A":"eagle",
+        "B":"Garuda",
+        "C":"Airavat",
+        "D":"Jatayu",
+        "correct":"D",
+        "explain": "Sita cried for help and a fierce bird Jatayu attacked Ravana in an effort to stop him. But Ravana cut off the bird's wings with his sword. Sita threw her necklace to the ground, in the hope that Rama would save her."
+    },
+    {
+        "id":"9",
+        "que":"9) In which avatar was Lord Shankar present in Ramayana ?",
+        "A":"Ram",
+        "B":"Hanuman",
+        "C":"Laxman",
+        "D":"Angad",
+        "correct":"B",
+        "explain": "Lord Hanuman is said to be the eleventh avatar of Lord Shiva. He was born to Mata Anjani and Kesari. This avatar of Lord Shiva appeared to emphasise the importance of Yagya and the importance of remaining detached."
+    },
+    {
+        "id":"10",
+        "que":"10) In which avatar was Sheshnag in Ramayana ?",
+        "A":"Bharat",
+        "B":"Lakshmana",
+        "C":"Shatrughan",
+        "D":"Ravana",
+        "correct":"B",
+        "explain": "Lakshmana is described as an incarnation of Shesha, the multiple-headed nāga (serpent) upon whom rests the god Vishnu, whose avatar Rama is considered. When sage Vishwamitra asked Rama to kill the demons in the forest, Lakshmana accompanied them and went to Mithila with them."
+    }
+]
